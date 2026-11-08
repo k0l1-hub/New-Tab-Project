@@ -20,21 +20,26 @@ You can run this command in Git Bash. Alternatively, you can click the green **<
 
 The setup process depends on which browser you are using.
 
-### Firefox
+**Firefox**
 
-1. Open Firefox and go to **Settings**.
-2. Navigate to the **Home** section.
-3. Set your homepage using the URL of your project.
-4. If you want to use it as your new tab page, you will need an extension that allows custom new tab pages.
-5. Enter the URL of your project or the path to your local `index.html` file.
+1. Click the three dots in the top-right corner of the browser.
+2. Go to **Settings** and open **Home**.
+3. Scroll down and find the Firefox Home customization options.
+4. Under **New Windows and Tabs**, change the default setting to a custom URL.
+5. Select **Choose a specific site**.
+6. In the address field, enter the path to your `index.html` file or use this URL: https://k0l1-hub.github.io/New-Tab-Project/
+7. Click **Add address**.
+8. You can now close this page.
 
-### Microsoft Edge
+**Microsoft Edge**
 
 1. Click the three dots in the top-right corner of the browser.
 2. Go to **Settings**.
 3. Select **Start, home, and new tab page**.
-4. Configure your homepage using the URL of your project.
-5. To use it as your actual new tab page, you will need an extension that supports custom new tab pages.
+4. Find the option to open a custom site.
+5. Enter the path to your `index.html` file or use this URL: https://k0l1-hub.github.io/New-Tab-Project/
+6. Click **Add address**.
+7. You can now close this page.
 
 ### Google Chrome
 
